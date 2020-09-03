@@ -38,6 +38,12 @@
     "adapt-authoring-tags": "github:adapt-security/adapt-authoring-tags",
     "adapt-authoring-usergroups": "github:adapt-security/adapt-authoring-usergroups",
     "adapt-authoring-users": "github:adapt-security/adapt-authoring-users",
+    "adapt-authoring-content": "github:adapt-security/adapt-authoring-content",
+    "adapt-authoring-contentplugin": "github:adapt-security/adapt-authoring-contentplugin",
+    "adapt-authoring-lint": "github:adapt-security/adapt-authoring-lint",
+    "adapt-authoring-docs": "github:adapt-security/adapt-authoring-docs",
+    "adapt-authoring-testing": "github:adapt-security/adapt-authoring-testing",
+    "adapt_framework": "github:taylortom/adapt_framework",
     "adapt-cli": "^2.1.9"
   },
   "devDependencies": {
